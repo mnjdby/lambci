@@ -11,7 +11,7 @@
 
 ---
 
-Automate your testing and deployments with:
+Automate your testing and deployments with lambci by:
 
 - 1000 concurrent builds out of the box (can request more)
 - No maintenance of web servers, build servers or databases
